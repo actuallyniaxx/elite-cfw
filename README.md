@@ -119,7 +119,7 @@ gesture is detectable even though you're "braking and accelerating" at once.
 
 ## Credits & license
 
-Reverse-engineered and built by **Fer** with **Claude**, standing on
+Reverse-engineered and built by **actuallyniaxx** with **Claude**, standing on
 [ScooterTeam's bw-patcher / bw-flasher](https://github.com/ScooterTeam) for the
 Leqi/N32 image format, CRC and UART flashing.
 
